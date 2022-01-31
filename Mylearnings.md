@@ -1,4 +1,4 @@
-#MY LEARNINGS
+#MY LEARNINGS#
 **I learned how to open a Github account.**
 **I learned how to use things on Dashboard.**
 **I learned how to pull request.**
